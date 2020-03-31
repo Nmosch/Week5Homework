@@ -1,4 +1,4 @@
 1. Display current date at top of page
 2. Color code timeblock based on time of day (past, present, future)
-3. Text entered is stored and saved in local storage
+3. Text entered is stored and saved in local storage when blue button on right is clicked
 4. Text persists when page is refreshed
