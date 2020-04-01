@@ -36,8 +36,9 @@ $(document).ready(function () {
         
         col2.append(textArea);
         var col3 = $("<div class='col-sm-1'>");
-        var saveBtn = $("<button  class='saveBtn'>");
-        saveBtn.text("Save")
+        var saveBtn = $("<button  class='saveBtn far fa-save'>");
+        saveBtn.height("60px");
+        saveBtn.width("60px");
         col3.append(saveBtn);
         row.append(col1, col2, col3);
         $("#displayTime").append(row);
